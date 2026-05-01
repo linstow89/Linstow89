@@ -1,6 +1,6 @@
 ### Hi, I'm Mark 👋
 
-I'm a builder at the intersection of **product**, **people**, and **design** — currently bringing that energy to my own iOS projects after nearly seven years leading customer support at [Braze](https://braze.com).
+I'm a builder at the intersection of **product**, **people**, and **design** — currently bringing that energy to my own iOS projects.
 
 ---
 
