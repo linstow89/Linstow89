@@ -36,8 +36,6 @@ FuelDrop helps UK drivers find the cheapest nearby petrol station in seconds —
 
 ## A bit about me
 
-- 🛠 Director of Customer Support (EMEA) for nearly seven years — led a team of 28 across London & Bucharest
-- 📐 Obsessed with design systems, Figma, and making things feel *just right*
 - 📸 Photographer in my spare time
 - 🐾 Kept sane by Bramble the dog
 - 🇬🇧 Based in London
@@ -52,10 +50,3 @@ FuelDrop helps UK drivers find the cheapest nearby petrol station in seconds —
 
 ---
 
-## Let's connect
-
-I'm interested in roles where design thinking and technical depth meet — particularly in product, design tooling, or developer experience.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mark%20von%20Linstow-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-Linstow89-181717?style=flat&logo=github)](https://github.com/Linstow89)
-[![Email](https://img.shields.io/badge/Email-say%20hello-EA4335?style=flat&logo=gmail)](mailto:your@email.com)
