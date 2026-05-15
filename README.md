@@ -6,7 +6,7 @@
 
 *Turning ideas into polished iOS experiences — currently shipping from London 🇬🇧*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-von-linstow/)
 [![GitHub followers](https://img.shields.io/github/followers/linstow89?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/linstow89)
 
 </div>
@@ -32,6 +32,8 @@ FuelDrop helps UK drivers find the cheapest nearby petrol station in seconds —
 | 🚗 **CarPlay Integration** | Glanceable prices before you pull in |
 | 🔲 **Home & Lock Screen Widgets** | Your cheapest station at a glance |
 | 🎨 **Scandinavian-inspired UI** | Clean, focused design built in SwiftUI |
+| 🚗 **Volvo connected car services Integration** | Glanceable prices cost of filling up including your trip to the station based on live data from your Volvo |
+
 
 ### 📸 Screenshots
 
@@ -46,6 +48,8 @@ FuelDrop helps UK drivers find the cheapest nearby petrol station in seconds —
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![MapKit](https://img.shields.io/badge/MapKit-000000?style=flat-square&logo=apple&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
 
 ---
 
@@ -67,18 +71,6 @@ FuelDrop helps UK drivers find the cheapest nearby petrol station in seconds —
 **Observability & Operations**
 
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=linstow89&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F05138&icon_color=F05138&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linstow89&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F05138&text_color=ffffff)
-
-</div>
 
 ---
 
