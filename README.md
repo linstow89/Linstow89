@@ -53,27 +53,6 @@ FuelDrop helps UK drivers find the cheapest nearby petrol station in seconds —
 
 ---
 
-## 🧰 Skills & Tools
-
-**Mobile Development**
-
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
-![WidgetKit](https://img.shields.io/badge/WidgetKit-000000?style=flat-square&logo=apple&logoColor=white)
-![CarPlay](https://img.shields.io/badge/CarPlay-1C1C1E?style=flat-square&logo=apple&logoColor=white)
-
-**Design & Product**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Design Systems](https://img.shields.io/badge/Design%20Systems-7952B3?style=flat-square&logo=figma&logoColor=white)
-
-**Observability & Operations**
-
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
-
----
-
 ## 🙋 A bit about me
 
 - 📱 Building iOS apps that solve real everyday problems
