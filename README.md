@@ -4,10 +4,9 @@
 
 **Builder at the intersection of product, people, and design**
 
-*Turning ideas into polished iOS experiences — currently shipping from London 🇬🇧*
+*Turning ideas into polished iOS experiences — currently shipping from Kent 🇬🇧*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-von-linstow/)
-[![GitHub followers](https://img.shields.io/github/followers/linstow89?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/linstow89)
 
 </div>
 
