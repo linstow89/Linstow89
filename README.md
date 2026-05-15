@@ -32,7 +32,7 @@ FuelDrop helps UK drivers find the cheapest nearby petrol station in seconds —
 | 🚗 **CarPlay Integration** | Glanceable prices before you pull in |
 | 🔲 **Home & Lock Screen Widgets** | Your cheapest station at a glance |
 | 🎨 **Scandinavian-inspired UI** | Clean, focused design built in SwiftUI |
-| 🚗 **Volvo connected car services Integration** | Glanceable prices cost of filling up including your trip to the station based on live data from your Volvo |
+| 🚗 **Volvo connected car services Integration** | See the cost of filling your tank including your trip to the station based on live data from your Volvo |
 
 
 ### 📸 Screenshots
